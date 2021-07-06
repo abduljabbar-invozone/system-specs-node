@@ -1,0 +1,17 @@
+Node JS
+- open source and cross-platform runtime environment.
+- built on top of chrome's v8 engine
+- can also run outside of the browser
+- one language for both client-side and server-side
+
+Chrome-engine
+- Google's open source javascript engine named v8
+- written in C++
+
+Promises & Async/Await
+- asynchornous javascript
+- promises are standardized in ES2015 and async/await in ES2017
+- it can be in one of the three states: pending, resolved and rejected (passed to then/catch function upon finishing)
+- it's been used to overcome the issues faced in callback hell
+
+
